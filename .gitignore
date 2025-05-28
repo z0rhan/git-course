@@ -1,0 +1,4 @@
+# Ignore
+.in
+.out
+.pyc
